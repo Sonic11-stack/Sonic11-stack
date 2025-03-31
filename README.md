@@ -11,10 +11,10 @@
   <td>
 
   <h3>🛠️ Стек технологий</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,python,cs,unity,postgres,ts,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,html,css&theme=dark" />
 
   <h3>📈 GitHub Статистика</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonic11-stack&show_icons=true&theme=dark&count_private=true" />
 
   </td>
   </tr>

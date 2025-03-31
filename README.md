@@ -22,13 +22,10 @@
 
 ## 📌 О себе
 
-- 🎯 Опыт в разработке с использованием **FastAPI, Selenide, Cucumber**
-- 🔍 Анализ конкурентов с **Serpstat, Keys.so**
-- 🚀 Люблю автоматизацию и тестирование
+- 🎯 Опыт в разработке с использованием **FastAPI, Python, SQL**
 
 ## 📬 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40ТВОЙ_ТГ-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_ТГ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Профиль-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН)
+[![Telegram](https://img.shields.io/badge/Telegram-%40ТВОЙ_ТГ-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Fetyper)
 
 ### Спасибо, что заглянул! 🚀

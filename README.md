@@ -5,7 +5,7 @@
     <td>
 
   <h3>📊 Языковая статистика</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЮЗЕРНЕЙМ&layout=pie&theme=dark&hide=shaderlab,hlsl,mathematica,mako,html,css,shell,makefile,jupyter notebook,dockerfile,scilab,java,javascript,c,c++&custom_title=Языковая статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic11-stack&layout=pie&theme=dark&hide=shaderlab,hlsl,mathematica,mako,html,css,shell,makefile,jupyter notebook,dockerfile,scilab,java,javascript,c,c++&custom_title=Языковая статистика" />
 
   </td>
   <td>
@@ -26,6 +26,4 @@
 
 ## 📬 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40ТВОЙ_ТГ-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Fetyper)
-
-### Спасибо, что заглянул! 🚀
+[![Telegram](https://img.shields.io/badge/Telegram-%40Мой_ТГ-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Fetyper)

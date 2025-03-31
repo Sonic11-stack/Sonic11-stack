@@ -3,7 +3,7 @@
     <td>
 
   <h3>📊 Языковая статистика</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyZatonsky&layout=pie&theme=dark&hide=shaderlab,hlsl,mathematica,mako,html,css,shell,makefile,jupyter notebook,dockerfile,scilab,java,javascript,c,c++&custom_title=Языковая статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyNazarov&layout=pie&theme=dark&hide=shaderlab,hlsl,mathematica,mako,html,css,shell,makefile,jupyter notebook,dockerfile,scilab,java,javascript,c,c++&custom_title=Языковая статистика" />
 
   </td>
   <td>

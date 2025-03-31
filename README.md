@@ -14,7 +14,7 @@
   
 
   <h3>📈 GitHub Статистика</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexeyZatonsky&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatveyNazarov&show_icons=true&theme=dark&count_private=true" />
 
   </td>
   </tr>

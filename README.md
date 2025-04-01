@@ -5,7 +5,7 @@
     <td>
 
   <h3>📊 Языковая статистика</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic11-stack&layout=pie&theme=dark&hide=shaderlab,hlsl,mathematica,mako,html,css,shell,makefile,jupyter notebook,dockerfile,scilab,java,javascript,c,c++&custom_title=Языковая статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic11-stack&layout=pie&theme=dark&hide=python,html,css,javascript&custom_title=Языковая статистика" />
 
   </td>
   <td>

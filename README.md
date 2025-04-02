@@ -8,7 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonic11-stack&layout=compact&theme=dark&custom_title=Языковая статистика" />
 
 
- 
+ </td>
+ <td>
 
 
   <h3>🛠️ Стек технологий</h3>

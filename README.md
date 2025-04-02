@@ -5,11 +5,7 @@
     <td>
 
   <h3>📊 Языковая статистика</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sonic11-stack&theme=dark" />
-
-
-
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sonic11-stack&theme=dark" />
  </td>
  <td>
 
